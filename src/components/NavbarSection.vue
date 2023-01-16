@@ -15,7 +15,7 @@
             Kokash
           </a>
         </div>
-        <div class="flex items-center gap-5">
+        <div class="flex items-center gap-6 md:gap-16">
           <a href="" class="uppercase text-xs font-bold hover:text-[#EE6E24]"
             >set up your store for free</a
           >

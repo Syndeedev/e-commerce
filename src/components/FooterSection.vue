@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed bottom-0 w-full z-50">
+  <div class="w-full z-50 mt-20">
     <div class="bg-[#f8f9fb] py-20">
       <div class="max-w-6xl m-auto text-left px-4 sm:px-6">
         <a
